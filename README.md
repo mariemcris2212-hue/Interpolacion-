@@ -13,7 +13,9 @@ El objetivo es comprobar experimentalmente que ambos algoritmos entregan el mism
 *Estructura del Proyecto*
 
 src/
+
 └── interpolacion/
+
     ├── InterpolacionNewton.java
     ├── InterpolacionLagrange.java
     └── Principales.java
